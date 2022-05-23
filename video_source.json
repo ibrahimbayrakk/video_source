@@ -3,78 +3,78 @@
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "subtitle": "By Blender Foundation",
     "title": "Big Buck Bunny",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "subtitle": "By Blender Foundation",
     "title": "Elephant Dream",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Blazes",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Escape",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Fun",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Joyrides",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Meltdowns",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     "subtitle": "By Blender Foundation",
     "title": "Sintel",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
     "subtitle": "By Garage419",
     "title": "Subaru Outback On Street And Dirt",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "subtitle": "By Blender Foundation",
     "title": "Tears of Steel",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "subtitle": "By Garage419",
     "title": "Volkswagen GTI Review",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
     "subtitle": "By Garage419",
     "title": "We Are Going On Bullrun",
-    "category_id": "1"
+    "category": "1"
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
     "subtitle": "By Garage419",
     "title": "What care can you get for a grand?",
-    "category_id": "1"
+    "category": "1"
   }
 ]

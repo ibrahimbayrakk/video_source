@@ -21,7 +21,7 @@
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Escape",
-    "category": "4"
+    "category": 4
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
@@ -33,13 +33,13 @@
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Joyrides",
-    "category": "2"
+    "category": 2
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "subtitle": "By Google",
     "title": "For Bigger Meltdowns",
-    "category": "3"
+    "category": 3
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
@@ -69,12 +69,12 @@
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
     "subtitle": "By Garage419",
     "title": "We Are Going On Bullrun",
-    "category": "1"
+    "category": 1
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
     "subtitle": "By Garage419",
     "title": "What care can you get for a grand?",
-    "category": "1"
+    "category": 1
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "subtitle": "By Blender Foundation",
+    "subtitle": "https://raw.githubusercontent.com/ibrahimbayrakk/video_source/main/%5BEnglish%5D%20PremiumBeat.srt",
     "title": "Big Buck Bunny",
     "category": 1
   },
   {
     "sources": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "subtitle": "By Blender Foundation",
+    "subtitle": "https://raw.githubusercontent.com/ibrahimbayrakk/video_source/main/%5BEnglish%5D%20PremiumBeat.srt",
     "title": "Elephant Dream",
     "category": 2
   },
